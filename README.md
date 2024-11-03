@@ -1,3 +1,3 @@
 # React Native
 
-A mono repo for checking out various react native apps
+A repo for trying out various react native apps
